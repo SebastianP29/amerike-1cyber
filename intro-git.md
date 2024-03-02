@@ -31,22 +31,17 @@ git help config
 ## Inicializar _GIT_ por primera vez 
 ```bash
 # git init se ejecuta una sola vez en cada carpeta,para indicarle a git que tiene  que supervisar dicha carpeta.
-
 git init
-
 # git status sirve para revisar el estado de los archivos de la carpeta que git está supervisando.
-
 git status
-
+# git log, permite conocer todo el historial de un proyecto, con la información de la fecha, el autor y id de cada cambio.
+git log
 # agregar los cambios de un archivo al staged
 git add archivo/directorio
 # agregar todos los cambios de todos los archivos al staged
 git add .
-
 # saca del stage y regresa al working directory el archivo indicado
 git rm --cached archivo
-
-
 # los cambios son comprometidos en el repositorio
 # debes escribir el mensaje del cambio
 # cuando se abra el archivo de configuración
@@ -56,16 +51,12 @@ git commit
 # es un shortcut del comando anterior
 # escribes y confirmas el mensaje del cambio en un sólo paso
 git commit -m "mensaje descriptivo del cambio"
-
-
 # se agrega el origen remoto de tu repositorio de GitHub
 git remote add origin https://github.com/usuario/repositorio.git
 # la primera vez que vinculamos el repositorio remoto con el local
 git push -u origin master
 # para las subsecuentes actualizaciones, sino cambias de rama
 git push
-
-
 #para descargar los cambios del repositorio remoto al local
 git pull
 ```
