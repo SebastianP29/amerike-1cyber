@@ -13,7 +13,7 @@
 
 ## Datos Personales
 
-![Yo](imagen.jpeg)
+![Yo](img/imagen-yo.jpeg)
 ### **Nombre**: Sebastián Padilla Pardo
 ### **Edad**: 21 años
 ### **Fecha de Nacimiento**: 29 de Julio de 2002
