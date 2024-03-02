@@ -32,8 +32,6 @@ git help config
 ```bash
 # git init se ejecuta una sola vez en cada carpeta,para indicarle a git que tiene  que supervisar dicha carpeta.
 git init
-#git remote add origin url vincula nuestro repositorio de github con la carpeta.   nombre-usuario/nombre-repositorio
-git remote add origin https://github.com/SebastianP29/amerike-1cyber.git
 # git status sirve para revisar el estado de los archivos de la carpeta que git está supervisando.
 git status
 # git log, permite conocer todo el historial de un proyecto, con la información de la fecha, el autor y id de cada cambio.
@@ -56,7 +54,7 @@ git commit -m "mensaje descriptivo del cambio"
 # se agrega el origen remoto de tu repositorio de GitHub
 git remote add origin https://github.com/usuario/repositorio.git
 # la primera vez que vinculamos el repositorio remoto con el local
-git push -u origin master
+git push -u origin main
 # para las subsecuentes actualizaciones, sino cambias de rama
 git push
 #para descargar los cambios del repositorio remoto al local
