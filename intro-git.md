@@ -32,7 +32,7 @@ git help config
 ```bash
 # git init se ejecuta una sola vez en cada carpeta,para indicarle a git que tiene  que supervisar dicha carpeta.
 git init
-#git remote vincula nuestro repositorio de github con la carpeta.
+#git remote add origin url vincula nuestro repositorio de github con la carpeta.   nombre-usuario/nombre-repositorio
 git remote add origin https://github.com/SebastianP29/amerike-1cyber.git
 # git status sirve para revisar el estado de los archivos de la carpeta que git está supervisando.
 git status
