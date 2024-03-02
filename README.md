@@ -7,3 +7,5 @@ Este es el repositorio de código de la asignatura Programación I de la Ingenie
 - [Introducción a _GIT_ ](intro-git.md)
 
 Edad: 21 años
+
+![yo](img/imagen-yo.jpeg)
