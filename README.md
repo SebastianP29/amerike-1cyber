@@ -5,7 +5,8 @@ Este es el repositorio de código de la asignatura Programación I de la Ingenie
 ## Teoría de la asignatura
 - [Introducción a _Markdown_](/intro-markdown.md)
 - [Introducción a _GIT_ ](intro-git.md)
+- [Guía _GIT_ Jon Mircha](https://jonmircha.com/git)
 
-Edad: 21 años
+# Sebastián Padilla Pardo
 
-![yo](img/imagen-yo.jpeg)
+- [Práctica 1](practica-1.md)
