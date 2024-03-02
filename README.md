@@ -5,3 +5,5 @@ Este es el repositorio de código de la asignatura Programación I de la Ingenie
 ## Teoría de la asignatura
 - [Introducción a _Markdown_](/intro-markdown.md)
 - [Introducción a _GIT_ ](intro-git.md)
+
+Edad: 21 años
